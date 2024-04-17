@@ -6,5 +6,5 @@
 
 This plugin is a simple html parser that extracts the text from a given html content.
 
-The current implementation starts by assuming that the html content relevant to perform a RAG strategy is inside the `<p>...</p>` tag. 
-This is a simple implementation, and it can be improved to support more complex html structures.
+It's enough set relevant tags and tags to strip before read html content.
+![img.png](screenshot-1.png)
