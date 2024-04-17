@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Html Parser",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "description": "HTML Parser is able to get specific pieces of an HTML page, using CSS selectors.",
+    "author_name": "Giovanni Albero",
+    "author_url": "https://mimir.bot",
+    "plugin_url": "https://github.com/my_name/html_parser",
+    "tags": "cat, plugin, html, parser, css, selector",
+    "thumb": "https://raw.githubusercontent.com/mimir-chatbot/html-parser/main/logo-html-parser.png"
 }
